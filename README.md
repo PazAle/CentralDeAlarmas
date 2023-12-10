@@ -5,7 +5,7 @@ Central de Alarmas
 Un centro de seguridad que posee muchas alarmas, permite ingresar usuarios los
 cuáles serán configuradores o activadores.
 
-Los usuarios poseen:\n
+Los usuarios poseen:
   ● DNI.
   ● Nombre.
 
